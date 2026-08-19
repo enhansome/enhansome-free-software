@@ -1,919 +1,976 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Nuclear Music Player",
+              "description": "Streaming music player that finds music from free sources automatically. (GNU AGPLv3)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68968979,
+                "language": "TypeScript",
+                "last_commit": "2026-08-16T00:50:31Z",
+                "owner": "nukeop",
+                "repo": "nuclear",
+                "stars": 18300
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LMMS",
+              "description": "Complete digital audio workstation. (GNU GPLv2+)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15778896,
+                "language": "C++",
+                "last_commit": "2026-08-17T23:34:10Z",
+                "owner": "LMMS",
+                "repo": "lmms",
+                "stars": 10262
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mStream",
+              "description": "Suite of software for syncing and streaming music across multiple devices. (GNU GPLv3)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47475095,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T12:21:25Z",
+                "owner": "IrosTheBeggar",
+                "repo": "mStream",
+                "stars": 2380
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Audio"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "asciinema",
+              "description": "Terminal session recorder. (GNU GPLv3)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2823326,
+                "language": "Rust",
+                "last_commit": "2026-08-14T09:03:57Z",
+                "owner": "asciinema",
+                "repo": "asciinema",
+                "stars": 17700
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ranger",
+              "description": "Minimal, lightweight, and aesthetically pleasing file explorer for GNU/Linux. It runs in the terminal window, so it fits in well with window managers such as i3. vi key bindings allow for quick operations to be performed, including rename and delete. (GNU GPLv3)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 218157,
+                "language": "Python",
+                "last_commit": "2026-08-15T07:36:52Z",
+                "owner": "ranger",
+                "repo": "ranger",
+                "stars": 17355
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GNU stow",
+              "description": "GNU Stow is a symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place. (GNU GPLv3)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 218157,
+                "language": "Python",
+                "last_commit": "2026-08-15T07:36:52Z",
+                "owner": "ranger",
+                "repo": "ranger",
+                "stars": 17355
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Clipboard",
+              "description": "Cut, copy, and paste anything, anywhere, all from the command line. (GNU GPLv3)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 568268698,
+                "language": "C++",
+                "last_commit": "2026-05-06T17:53:52Z",
+                "owner": "Slackadays",
+                "repo": "Clipboard",
+                "stars": 5875
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kit CLI",
+              "description": "Open source MLOps tool that allows you to create, manage, run, and deploy ModelKits using Kitfiles. From packaging new models to deploying existing ones, Kit CLI lets you streamline workflows effortlessly. (Apache License 2.0)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 751983018,
+                "language": "Go",
+                "last_commit": "2026-08-17T20:09:36Z",
+                "owner": "kitops-ml",
+                "repo": "kitops",
+                "stars": 1402
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Logdissect",
+              "description": "CLI utility and Python API for analyzing log files and other data. (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82487586,
+                "language": "Python",
+                "last_commit": "2024-08-07T20:14:51Z",
+                "owner": "dogoncouch",
+                "repo": "logdissect",
+                "stars": 161
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SimpleLocalize",
+              "description": "Open source tool for managing i18n keys in software projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178279149,
+                "language": "Java",
+                "last_commit": "2026-08-08T07:01:43Z",
+                "owner": "simplelocalize",
+                "repo": "simplelocalize-cli",
+                "stars": 78
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Localizely",
+              "description": "Open source tool that helps you sync localization files between your source code and the Localizely platform. (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 558915293,
+                "language": "Go",
+                "last_commit": "2025-12-10T14:18:03Z",
+                "owner": "localizely",
+                "repo": "localizely-cli",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Command Line Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Jitsi Meet",
+              "description": "Secure video conferencing and desktop sharing using WebRTC. (Apache License 2.0)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15225670,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T11:42:38Z",
+                "owner": "jitsi",
+                "repo": "jitsi-meet",
+                "stars": 29769
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Signal",
+              "description": "Private messaging and calling for desktop, Android, and iOS. (GNU GPLv3)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2990192,
+                "language": "Kotlin",
+                "last_commit": "2026-08-17T18:34:25Z",
+                "owner": "signalapp",
+                "repo": "Signal-Android",
+                "stars": 29218
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mail-in-a-Box",
+              "description": "Easy-to-deploy mail server package for cloud computers. (CC0)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12271469,
+                "language": "Python",
+                "last_commit": "2026-05-24T17:19:22Z",
+                "owner": "mail-in-a-box",
+                "repo": "mailinabox",
+                "stars": 15389
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Matrix",
+              "description": "Open standard for decentralised, persistent, and interoperable communications. (Apache License 2.0)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 22844864,
+                "language": "Python",
+                "last_commit": "2024-04-26T15:47:23Z",
+                "owner": "matrix-org",
+                "repo": "synapse",
+                "stars": 12101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tutanota",
+              "description": "Encrypted email at no cost with support for business accounts. (GNU GPLv3)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22344874,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:22:35Z",
+                "owner": "tutao",
+                "repo": "tutanota",
+                "stars": 7863
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ProtonMail",
+              "description": "Secure web-based email service. (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60692320,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:17:37Z",
+                "owner": "ProtonMail",
+                "repo": "WebClients",
+                "stars": 5555
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tox",
+              "description": "Encrypted and distributed messaging platform with voice, video, and screen sharing. (GNU GPLv3)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62703642,
+                "language": "C",
+                "last_commit": "2026-08-13T03:12:32Z",
+                "owner": "TokTok",
+                "repo": "c-toxcore",
+                "stars": 2673
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Communication"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Filestash",
+              "description": "A Dropbox-like web client where users can bring their own backend (FTP, SFTP, Webdav, S3, Minio, ...). (GNU AGPLv3)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94173064,
+                "language": "Go",
+                "last_commit": "2026-08-19T06:34:29Z",
+                "owner": "mickael-kerjean",
+                "repo": "filestash",
+                "stars": 14522
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WinSCP",
+              "description": "SFTP and FTP client for Windows (GNU GPLv3)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61737765,
+                "language": "C",
+                "last_commit": "2026-08-16T09:13:51Z",
+                "owner": "winscp",
+                "repo": "winscp",
+                "stars": 3778
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mikochi",
+              "description": "A web interface for browsing remote folders, managing files (uploading, deleting, renaming, downloading), and streaming directly to VLC/mpv. (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 587412415,
+                "language": "JavaScript",
+                "last_commit": "2026-07-07T09:54:38Z",
+                "owner": "zer0tonin",
+                "repo": "Mikochi",
+                "stars": 370
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "File Management"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Pinta",
+              "description": "Gtk# clone of Paint.NET. (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2358713,
+                "language": "C#",
+                "last_commit": "2026-08-17T03:17:34Z",
+                "owner": "PintaProject",
+                "repo": "Pinta",
+                "stars": 3883
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ExifCleaner",
+              "description": "GUI app to remove exif metadata from images and videos with simple drag and drop. (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226020742,
+                "language": "Perl",
+                "last_commit": "2026-08-10T13:03:47Z",
+                "owner": "szTheory",
+                "repo": "exifcleaner",
+                "stars": 2609
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Piskel",
+              "description": "Online sprite editor. (Apache License 2.0)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121949302,
+                "language": "JavaScript",
+                "last_commit": "2026-04-08T22:10:00Z",
+                "owner": "juliandescottes",
+                "repo": "piskel",
+                "stars": 35
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Graphics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenMapTiles",
+              "description": "Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK. (BSD)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69994043,
+                "language": "PLpgSQL",
+                "last_commit": "2026-07-29T12:19:41Z",
+                "owner": "openmaptiles",
+                "repo": "openmaptiles",
+                "stars": 3142
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IP2Trace",
+              "description": "A traceroute tools that displaying geolocation information using IP2Location database. (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 317716901,
+                "language": "C",
+                "last_commit": "2025-12-31T01:59:18Z",
+                "owner": "ip2location",
+                "repo": "ip2location-traceroute",
+                "stars": 27
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JabRef",
+              "description": "Manages references and attached PDFs using BibTeX/BibLaTeX. Includes support for LibreOffice. (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17634071,
+                "language": "Java",
+                "last_commit": "2026-08-18T21:46:40Z",
+                "owner": "JabRef",
+                "repo": "jabref",
+                "stars": 4621
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DocEar",
+              "description": "Literature management using mind mapping technology. (GNU GPLv2+)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6383665,
+                "language": "Java",
+                "last_commit": "2022-09-01T22:33:48Z",
+                "owner": "BeelGroup",
+                "repo": "Docear-Desktop",
+                "stars": 305
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Scientific Work"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OBS Studio",
+              "description": "Screen recorder and video streaming application for all platforms. (GNU GPLv2)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13233158,
+                "language": "C",
+                "last_commit": "2026-08-15T00:34:08Z",
+                "owner": "obsproject",
+                "repo": "obs-studio",
+                "stars": 75194
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ShareX",
+              "description": "Screen capture, file sharing and productivity tool. (GNU GPLv3)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13428264,
+                "language": "C#",
+                "last_commit": "2026-08-18T00:24:56Z",
+                "owner": "ShareX",
+                "repo": "ShareX",
+                "stars": 39197
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Screencasting"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Espanso",
+              "description": "A cross-playform text expander (GNU GPLv3)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205326947,
+                "language": "Rust",
+                "last_commit": "2026-08-16T00:10:48Z",
+                "owner": "espanso",
+                "repo": "espanso",
+                "stars": 14313
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Markdownify",
+              "description": "A minimal Markdown editor. (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56321375,
+                "language": "JavaScript",
+                "last_commit": "2026-01-12T11:12:10Z",
+                "owner": "amitmerchant1990",
+                "repo": "electron-markdownify",
+                "stars": 1088
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Freeter",
+              "description": "Freeter allows to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. For Win, Linux, Mac OS. (GNU GPLv3)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 739462270,
+                "language": "TypeScript",
+                "last_commit": "2026-05-27T02:53:50Z",
+                "owner": "FreeterApp",
+                "repo": "Freeter",
+                "stars": 1022
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Search Deflector",
+              "description": "A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 138102350,
+                "language": "D",
+                "last_commit": "2021-12-26T09:42:25Z",
+                "owner": "spikespaz",
+                "repo": "search-deflector",
+                "stars": 872
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sandman",
+              "description": "Lets you know when to turn off the computer and sleep based on calculated sleep cycles. (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89555278,
+                "language": "JavaScript",
+                "last_commit": "2022-06-16T23:59:28Z",
+                "owner": "alexanderepstein",
+                "repo": "Sandman",
+                "stars": 514
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Grayscale Mode",
+              "description": "An open source macOS app that lets you quickly toggle grayscale filter right from your menu bar or using a keyboard shortcut (⌥⌘G). (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169267589,
+                "language": "Swift",
+                "last_commit": "2021-09-01T10:11:15Z",
+                "owner": "rkbhochalya",
+                "repo": "grayscale-mode",
+                "stars": 110
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Utilities"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "youtube-dl",
+              "description": "Feature-rich command line program to download videos from YouTube and other video sites. (Unlicense)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1039520,
+                "language": "Python",
+                "last_commit": "2026-02-19T16:45:25Z",
+                "owner": "ytdl-org",
+                "repo": "youtube-dl",
+                "stars": 140973
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NewPipe",
+              "description": "Lightweight YouTube frontend for Android. (GNU GPLv3)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41889031,
+                "language": "Java",
+                "last_commit": "2026-08-19T11:02:29Z",
+                "owner": "TeamNewPipe",
+                "repo": "NewPipe",
+                "stars": 39396
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MPV",
+              "description": "Customizable multimedia player with scripting support. (GNU GPLv2)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6201092,
+                "language": "C",
+                "last_commit": "2026-08-17T17:57:13Z",
+                "owner": "mpv-player",
+                "repo": "mpv",
+                "stars": 36589
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kodi",
+              "description": "Home Theater software and entertainment hub. (GNU GPLv2)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1217614,
+                "language": "C++",
+                "last_commit": "2026-08-19T11:35:00Z",
+                "owner": "xbmc",
+                "repo": "xbmc",
+                "stars": 21108
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Video"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ghost",
+              "description": "Hackable platform for building and running online publications. (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9852918,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T12:27:34Z",
+                "owner": "TryGhost",
+                "repo": "Ghost",
+                "stars": 54796
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mastodon",
+              "description": "Decentralized social network server. (GNU AGPLv3)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52281283,
+                "language": "Ruby",
+                "last_commit": "2026-08-19T12:26:41Z",
+                "owner": "mastodon",
+                "repo": "mastodon",
+                "stars": 50220
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gogs",
+              "description": "Lightweight, cross-platform, self-hosted Git service. (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16752620,
+                "language": "Go",
+                "last_commit": "2026-08-06T12:32:28Z",
+                "owner": "gogs",
+                "repo": "gogs",
+                "stars": 47740
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Etherpad",
+              "description": "Collaborative document editing in real-time. (Apache License 2.0)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1529160,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T15:25:54Z",
+                "owner": "ether",
+                "repo": "etherpad",
+                "stars": 18498
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DocuSeal",
+              "description": "A platform to fill and sign digital documents. (GNU AGPLv3)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 661850205,
+                "language": "Ruby",
+                "last_commit": "2026-08-17T10:25:54Z",
+                "owner": "docusealco",
+                "repo": "docuseal",
+                "stars": 18301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wallabag",
+              "description": "Save and classify articles. Read them later. Freely. (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9193949,
+                "language": "PHP",
+                "last_commit": "2026-08-18T08:11:59Z",
+                "owner": "wallabag",
+                "repo": "wallabag",
+                "stars": 12917
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Phabricator",
+              "description": "Code management platform (similar to GitLab) built with PHP. (Apache License 2.0)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1280180,
+                "language": "PHP",
+                "last_commit": "2024-04-12T10:28:40Z",
+                "owner": "phacility",
+                "repo": "phabricator",
+                "stars": 12296
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Healthchecks",
+              "description": "Cron job monitoring service. (BSD 3-clause)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38067078,
+                "language": "Python",
+                "last_commit": "2026-08-19T12:12:58Z",
+                "owner": "healthchecks",
+                "repo": "healthchecks",
+                "stars": 10260
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Weblate",
+              "description": "Translation management system with version control integration. (GNU GPLv3)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3559019,
+                "language": "Python",
+                "last_commit": "2026-08-19T10:10:09Z",
+                "owner": "WeblateOrg",
+                "repo": "weblate",
+                "stars": 6028
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lobsters",
+              "description": "Link aggregation and discussion with downvote explanations. (BSD 3-clause)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5543112,
+                "language": "Ruby",
+                "last_commit": "2026-08-17T21:02:33Z",
+                "owner": "lobsters",
+                "repo": "lobsters",
+                "stars": 4815
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tolgee",
+              "description": "Developer & translator friendly web-based localization platform. (Apache License 2.0)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 303766501,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T22:07:39Z",
+                "owner": "tolgee",
+                "repo": "tolgee-platform",
+                "stars": 4078
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dnote",
+              "description": "A simple command line notebook with multi-device sync and web interface. (GNU AGPLv3)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86756976,
+                "language": "Go",
+                "last_commit": "2026-07-25T04:25:52Z",
+                "owner": "dnote",
+                "repo": "dnote",
+                "stars": 3055
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Neocities",
+              "description": "GeoCities for the modern world. (BSD 2-clause)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18715057,
+                "language": "JavaScript",
+                "last_commit": "2026-08-18T02:35:12Z",
+                "owner": "neocities",
+                "repo": "neocities",
+                "stars": 1893
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Inventaire",
+              "description": "Share books with friends and communities. (GNU AGPLv3)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 30254057,
+                "language": "TypeScript",
+                "last_commit": "2025-05-16T15:52:36Z",
+                "owner": "inventaire",
+                "repo": "inventaire",
+                "stars": 461
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cloverleaf",
+              "description": "An open source app to replace your password manager without storing your passwords anywhere. (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86607662,
+                "language": "JavaScript",
+                "last_commit": "2025-07-01T11:51:30Z",
+                "owner": "cloverleaf",
+                "repo": "web",
+                "stars": 50
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web Applications"
+        }
+      ],
       "title": "Software"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Nuclear Music Player",
-          "description": "Streaming music player that finds music from free sources automatically. (GNU AGPLv3)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-16T00:50:31Z",
-            "owner": "nukeop",
-            "repo": "nuclear",
-            "stars": 18296
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LMMS",
-          "description": "Complete digital audio workstation. (GNU GPLv2+)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-17T23:34:10Z",
-            "owner": "LMMS",
-            "repo": "lmms",
-            "stars": 10261
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mStream",
-          "description": "Suite of software for syncing and streaming music across multiple devices. (GNU GPLv3)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-19T01:49:19Z",
-            "owner": "IrosTheBeggar",
-            "repo": "mStream",
-            "stars": 2379
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Self-Hosted",
+              "description": "List of FLOSS network services and web applications which can be hosted locally.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36633370,
+                "language": null,
+                "last_commit": "2026-08-19T10:02:51Z",
+                "owner": "awesome-selfhosted",
+                "repo": "awesome-selfhosted",
+                "stars": 313651
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Sysadmin",
+              "description": "List of free software sysadmin tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28387406,
+                "language": null,
+                "last_commit": "2026-08-19T09:58:40Z",
+                "owner": "awesome-foss",
+                "repo": "awesome-sysadmin",
+                "stars": 34927
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Humane Tech",
+              "description": "List of projects focusing on ethics, transparency, and privacy.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 120773959,
+                "language": null,
+                "last_commit": "2022-11-13T09:29:41Z",
+                "owner": "humanetech-community",
+                "repo": "awesome-humane-tech",
+                "stars": 3126
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other Lists"
         }
       ],
-      "title": "Audio"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "asciinema",
-          "description": "Terminal session recorder. (GNU GPLv3)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-14T09:03:57Z",
-            "owner": "asciinema",
-            "repo": "asciinema",
-            "stars": 17696
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ranger",
-          "description": "Minimal, lightweight, and aesthetically pleasing file explorer for GNU/Linux. It runs in the terminal window, so it fits in well with window managers such as i3. vi key bindings allow for quick operations to be performed, including rename and delete. (GNU GPLv3)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-15T07:36:52Z",
-            "owner": "ranger",
-            "repo": "ranger",
-            "stars": 17353
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GNU stow",
-          "description": "GNU Stow is a symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place. (GNU GPLv3)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-15T07:36:52Z",
-            "owner": "ranger",
-            "repo": "ranger",
-            "stars": 17353
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Clipboard",
-          "description": "Cut, copy, and paste anything, anywhere, all from the command line. (GNU GPLv3)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-05-06T17:53:52Z",
-            "owner": "Slackadays",
-            "repo": "Clipboard",
-            "stars": 5875
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kit CLI",
-          "description": "Open source MLOps tool that allows you to create, manage, run, and deploy ModelKits using Kitfiles. From packaging new models to deploying existing ones, Kit CLI lets you streamline workflows effortlessly. (Apache License 2.0)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T20:09:36Z",
-            "owner": "kitops-ml",
-            "repo": "kitops",
-            "stars": 1402
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Logdissect",
-          "description": "CLI utility and Python API for analyzing log files and other data. (MIT)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-07T20:14:51Z",
-            "owner": "dogoncouch",
-            "repo": "logdissect",
-            "stars": 161
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SimpleLocalize",
-          "description": "Open source tool for managing i18n keys in software projects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-08T07:01:43Z",
-            "owner": "simplelocalize",
-            "repo": "simplelocalize-cli",
-            "stars": 78
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Localizely",
-          "description": "Open source tool that helps you sync localization files between your source code and the Localizely platform. (MIT)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-12-10T14:18:03Z",
-            "owner": "localizely",
-            "repo": "localizely-cli",
-            "stars": 7
-          }
-        }
-      ],
-      "title": "Command Line Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Jitsi Meet",
-          "description": "Secure video conferencing and desktop sharing using WebRTC. (Apache License 2.0)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T23:12:42Z",
-            "owner": "jitsi",
-            "repo": "jitsi-meet",
-            "stars": 29765
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Signal",
-          "description": "Private messaging and calling for desktop, Android, and iOS. (GNU GPLv3)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-17T18:34:25Z",
-            "owner": "signalapp",
-            "repo": "Signal-Android",
-            "stars": 29211
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mail-in-a-Box",
-          "description": "Easy-to-deploy mail server package for cloud computers. (CC0)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-24T17:19:22Z",
-            "owner": "mail-in-a-box",
-            "repo": "mailinabox",
-            "stars": 15389
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Matrix",
-          "description": "Open standard for decentralised, persistent, and interoperable communications. (Apache License 2.0)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-04-26T15:47:23Z",
-            "owner": "matrix-org",
-            "repo": "synapse",
-            "stars": 12101
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tutanota",
-          "description": "Encrypted email at no cost with support for business accounts. (GNU GPLv3)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T17:31:24Z",
-            "owner": "tutao",
-            "repo": "tutanota",
-            "stars": 7862
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ProtonMail",
-          "description": "Secure web-based email service. (MIT)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-19T00:15:44Z",
-            "owner": "ProtonMail",
-            "repo": "WebClients",
-            "stars": 5554
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tox",
-          "description": "Encrypted and distributed messaging platform with voice, video, and screen sharing. (GNU GPLv3)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-13T03:12:32Z",
-            "owner": "TokTok",
-            "repo": "c-toxcore",
-            "stars": 2673
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Conversations",
-          "description": "XMPP/Jabber client for Android. (GNU GPLv3)",
-          "children": []
-        }
-      ],
-      "title": "Communication"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Filestash",
-          "description": "A Dropbox-like web client where users can bring their own backend (FTP, SFTP, Webdav, S3, Minio, ...). (GNU AGPLv3)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-19T01:22:06Z",
-            "owner": "mickael-kerjean",
-            "repo": "filestash",
-            "stars": 14517
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WinSCP",
-          "description": "SFTP and FTP client for Windows (GNU GPLv3)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-16T09:13:51Z",
-            "owner": "winscp",
-            "repo": "winscp",
-            "stars": 3778
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mikochi",
-          "description": "A web interface for browsing remote folders, managing files (uploading, deleting, renaming, downloading), and streaming directly to VLC/mpv. (MIT)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-07T09:54:38Z",
-            "owner": "zer0tonin",
-            "repo": "Mikochi",
-            "stars": 370
-          }
-        }
-      ],
-      "title": "File Management"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Pinta",
-          "description": "Gtk# clone of Paint.NET. (MIT)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-17T03:17:34Z",
-            "owner": "PintaProject",
-            "repo": "Pinta",
-            "stars": 3881
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ExifCleaner",
-          "description": "GUI app to remove exif metadata from images and videos with simple drag and drop. (MIT)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2026-08-10T13:03:47Z",
-            "owner": "szTheory",
-            "repo": "exifcleaner",
-            "stars": 2605
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Piskel",
-          "description": "Online sprite editor. (Apache License 2.0)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-04-08T22:10:00Z",
-            "owner": "juliandescottes",
-            "repo": "piskel",
-            "stars": 35
-          }
-        }
-      ],
-      "title": "Graphics"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OpenMapTiles",
-          "description": "Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK. (BSD)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PLpgSQL",
-            "last_commit": "2026-07-29T12:19:41Z",
-            "owner": "openmaptiles",
-            "repo": "openmaptiles",
-            "stars": 3142
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IP2Trace",
-          "description": "A traceroute tools that displaying geolocation information using IP2Location database. (MIT)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-12-31T01:59:18Z",
-            "owner": "ip2location",
-            "repo": "ip2location-traceroute",
-            "stars": 27
-          }
-        }
-      ],
-      "title": "Other"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "JabRef",
-          "description": "Manages references and attached PDFs using BibTeX/BibLaTeX. Includes support for LibreOffice. (MIT)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T21:46:40Z",
-            "owner": "JabRef",
-            "repo": "jabref",
-            "stars": 4621
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DocEar",
-          "description": "Literature management using mind mapping technology. (GNU GPLv2+)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2022-09-01T22:33:48Z",
-            "owner": "BeelGroup",
-            "repo": "Docear-Desktop",
-            "stars": 305
-          }
-        }
-      ],
-      "title": "Scientific Work"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OBS Studio",
-          "description": "Screen recorder and video streaming application for all platforms. (GNU GPLv2)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-15T00:34:08Z",
-            "owner": "obsproject",
-            "repo": "obs-studio",
-            "stars": 75167
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ShareX",
-          "description": "Screen capture, file sharing and productivity tool. (GNU GPLv3)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-18T00:24:56Z",
-            "owner": "ShareX",
-            "repo": "ShareX",
-            "stars": 39194
-          }
-        }
-      ],
-      "title": "Screencasting"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Espanso",
-          "description": "A cross-playform text expander (GNU GPLv3)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-16T00:10:48Z",
-            "owner": "espanso",
-            "repo": "espanso",
-            "stars": 14311
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Markdownify",
-          "description": "A minimal Markdown editor. (MIT)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-01-12T11:12:10Z",
-            "owner": "amitmerchant1990",
-            "repo": "electron-markdownify",
-            "stars": 1088
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Freeter",
-          "description": "Freeter allows to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. For Win, Linux, Mac OS. (GNU GPLv3)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-27T02:53:50Z",
-            "owner": "FreeterApp",
-            "repo": "Freeter",
-            "stars": 1022
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Search Deflector",
-          "description": "A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. (MIT)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "D",
-            "last_commit": "2021-12-26T09:42:25Z",
-            "owner": "spikespaz",
-            "repo": "search-deflector",
-            "stars": 872
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sandman",
-          "description": "Lets you know when to turn off the computer and sleep based on calculated sleep cycles. (MIT)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-06-16T23:59:28Z",
-            "owner": "alexanderepstein",
-            "repo": "Sandman",
-            "stars": 514
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Grayscale Mode",
-          "description": "An open source macOS app that lets you quickly toggle grayscale filter right from your menu bar or using a keyboard shortcut (⌥⌘G). (MIT)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2021-09-01T10:11:15Z",
-            "owner": "rkbhochalya",
-            "repo": "grayscale-mode",
-            "stars": 110
-          }
-        }
-      ],
-      "title": "Utilities"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "youtube-dl",
-          "description": "Feature-rich command line program to download videos from YouTube and other video sites. (Unlicense)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-19T16:45:25Z",
-            "owner": "ytdl-org",
-            "repo": "youtube-dl",
-            "stars": 140972
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NewPipe",
-          "description": "Lightweight YouTube frontend for Android. (GNU GPLv3)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T12:44:03Z",
-            "owner": "TeamNewPipe",
-            "repo": "NewPipe",
-            "stars": 39388
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MPV",
-          "description": "Customizable multimedia player with scripting support. (GNU GPLv2)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-17T17:57:13Z",
-            "owner": "mpv-player",
-            "repo": "mpv",
-            "stars": 36583
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kodi",
-          "description": "Home Theater software and entertainment hub. (GNU GPLv2)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-19T01:37:47Z",
-            "owner": "xbmc",
-            "repo": "xbmc",
-            "stars": 21106
-          }
-        }
-      ],
-      "title": "Video"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Ghost",
-          "description": "Hackable platform for building and running online publications. (MIT)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-19T01:58:50Z",
-            "owner": "TryGhost",
-            "repo": "Ghost",
-            "stars": 54795
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mastodon",
-          "description": "Decentralized social network server. (GNU AGPLv3)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-18T16:03:19Z",
-            "owner": "mastodon",
-            "repo": "mastodon",
-            "stars": 50218
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gogs",
-          "description": "Lightweight, cross-platform, self-hosted Git service. (MIT)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-06T12:32:28Z",
-            "owner": "gogs",
-            "repo": "gogs",
-            "stars": 47736
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Etherpad",
-          "description": "Collaborative document editing in real-time. (Apache License 2.0)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T15:25:54Z",
-            "owner": "ether",
-            "repo": "etherpad",
-            "stars": 18498
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DocuSeal",
-          "description": "A platform to fill and sign digital documents. (GNU AGPLv3)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-17T10:25:54Z",
-            "owner": "docusealco",
-            "repo": "docuseal",
-            "stars": 18295
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wallabag",
-          "description": "Save and classify articles. Read them later. Freely. (MIT)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-18T08:11:59Z",
-            "owner": "wallabag",
-            "repo": "wallabag",
-            "stars": 12915
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Phabricator",
-          "description": "Code management platform (similar to GitLab) built with PHP. (Apache License 2.0)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-04-12T10:28:40Z",
-            "owner": "phacility",
-            "repo": "phabricator",
-            "stars": 12295
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Healthchecks",
-          "description": "Cron job monitoring service. (BSD 3-clause)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T17:40:25Z",
-            "owner": "healthchecks",
-            "repo": "healthchecks",
-            "stars": 10258
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Weblate",
-          "description": "Translation management system with version control integration. (GNU GPLv3)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T22:33:39Z",
-            "owner": "WeblateOrg",
-            "repo": "weblate",
-            "stars": 6028
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lobsters",
-          "description": "Link aggregation and discussion with downvote explanations. (BSD 3-clause)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-17T21:02:33Z",
-            "owner": "lobsters",
-            "repo": "lobsters",
-            "stars": 4815
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tolgee",
-          "description": "Developer & translator friendly web-based localization platform. (Apache License 2.0)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T22:07:39Z",
-            "owner": "tolgee",
-            "repo": "tolgee-platform",
-            "stars": 4077
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dnote",
-          "description": "A simple command line notebook with multi-device sync and web interface. (GNU AGPLv3)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-25T04:25:52Z",
-            "owner": "dnote",
-            "repo": "dnote",
-            "stars": 3055
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Neocities",
-          "description": "GeoCities for the modern world. (BSD 2-clause)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T02:35:12Z",
-            "owner": "neocities",
-            "repo": "neocities",
-            "stars": 1894
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Inventaire",
-          "description": "Share books with friends and communities. (GNU AGPLv3)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2025-05-16T15:52:36Z",
-            "owner": "inventaire",
-            "repo": "inventaire",
-            "stars": 461
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cloverleaf",
-          "description": "An open source app to replace your password manager without storing your passwords anywhere. (MIT)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-07-01T11:51:30Z",
-            "owner": "cloverleaf",
-            "repo": "web",
-            "stars": 50
-          }
-        }
-      ],
-      "title": "Web Applications"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Hardware"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Resources"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome Self-Hosted",
-          "description": "List of FLOSS network services and web applications which can be hosted locally.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-17T08:30:25Z",
-            "owner": "awesome-selfhosted",
-            "repo": "awesome-selfhosted",
-            "stars": 313543
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Sysadmin",
-          "description": "List of free software sysadmin tools.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-16T10:22:10Z",
-            "owner": "awesome-foss",
-            "repo": "awesome-sysadmin",
-            "stars": 34924
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Humane Tech",
-          "description": "List of projects focusing on ethics, transparency, and privacy.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2022-11-13T09:29:41Z",
-            "owner": "humanetech-community",
-            "repo": "awesome-humane-tech",
-            "stars": 3127
-          }
-        }
-      ],
-      "title": "Other Lists"
-    },
-    {
-      "description": "CC0 1.0",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T01:59:49.800Z",
+    "last_updated": "2026-08-19T12:31:07.274Z",
     "original_repository": "johnjago/awesome-free-software",
+    "original_repository_id": 69630281,
     "original_repository_sha": "1c87f1ea3740ba6426b951ca685115a7cc7ed729",
     "enhanced_repository": "enhansome/enhansome-free-software",
     "enhanced_repository_description": null,
