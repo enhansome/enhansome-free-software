@@ -53,9 +53,9 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 ### Command Line Tools
 
-* [asciinema](https://asciinema.org/) - Terminal session recorder. ([GNU GPLv3](https://github.com/asciinema/asciinema/blob/develop/LICENSE) ⭐ 17,740 | 🐛 8 | 🌐 Rust | 📅 2026-08-14)
-* [ranger](https://ranger.github.io/) - Minimal, lightweight, and aesthetically pleasing file explorer for GNU/Linux. It runs in the terminal window, so it fits in well with window managers such as i3. vi key bindings allow for quick operations to be performed, including rename and delete. ([GNU GPLv3](https://github.com/ranger/ranger/blob/master/README.md) ⭐ 17,368 | 🐛 899 | 🌐 Python | 📅 2026-08-15)
-* [GNU stow](https://www.gnu.org/software/stow/) - GNU Stow is a symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place. ([GNU GPLv3](https://github.com/ranger/ranger/blob/master/README.md) ⭐ 17,368 | 🐛 899 | 🌐 Python | 📅 2026-08-15)
+* [asciinema](https://asciinema.org/) - Terminal session recorder. ([GNU GPLv3](https://github.com/asciinema/asciinema/blob/develop/LICENSE) ⭐ 17,738 | 🐛 8 | 🌐 Rust | 📅 2026-08-14)
+* [ranger](https://ranger.github.io/) - Minimal, lightweight, and aesthetically pleasing file explorer for GNU/Linux. It runs in the terminal window, so it fits in well with window managers such as i3. vi key bindings allow for quick operations to be performed, including rename and delete. ([GNU GPLv3](https://github.com/ranger/ranger/blob/master/README.md) ⭐ 17,370 | 🐛 899 | 🌐 Python | 📅 2026-08-15)
+* [GNU stow](https://www.gnu.org/software/stow/) - GNU Stow is a symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place. ([GNU GPLv3](https://github.com/ranger/ranger/blob/master/README.md) ⭐ 17,370 | 🐛 899 | 🌐 Python | 📅 2026-08-15)
 * [Clipboard](https://github.com/Slackadays/Clipboard) ⭐ 5,891 | 🐛 26 | 🌐 C++ | 📅 2026-05-06 - Cut, copy, and paste anything, anywhere, all from the command line. ([GNU GPLv3](https://github.com/Slackadays/Clipboard/blob/main/LICENSE) ⭐ 5,891 | 🐛 26 | 🌐 C++ | 📅 2026-05-06)
 * [Kit CLI](https://github.com/jozu-ai/kitops?tab=readme-ov-file) ⭐ 1,408 | 🐛 48 | 🌐 Go | 📅 2026-08-24 - Open source MLOps tool that allows you to create, manage, run, and deploy ModelKits using Kitfiles. From packaging new models to deploying existing ones, Kit CLI lets you streamline workflows effortlessly. ([Apache License 2.0](https://github.com/jozu-ai/kitops/blob/main/LICENSE) ⭐ 1,408 | 🐛 48 | 🌐 Go | 📅 2026-08-24)
 * [Logdissect](https://github.com/dogoncouch/logdissect/) ⭐ 161 | 🐛 3 | 🌐 Python | 📅 2024-08-07 - CLI utility and Python API for analyzing log files and other data. ([MIT](https://github.com/dogoncouch/logdissect/blob/master/LICENSE) ⭐ 161 | 🐛 3 | 🌐 Python | 📅 2024-08-07)
@@ -67,10 +67,10 @@ Software in this list is distributed under terms that allow anyone to use, modif
 ### Communication
 
 * [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Secure video conferencing and desktop sharing using WebRTC. ([Apache License 2.0](https://github.com/jitsi/jitsi-meet/blob/master/LICENSE) ⭐ 29,822 | 🐛 146 | 🌐 TypeScript | 📅 2026-08-26)
-* [Signal](https://signal.org/) - Private messaging and calling for desktop, Android, and iOS. ([GNU GPLv3](https://github.com/WhisperSystems/Signal-Android/blob/master/LICENSE) ⭐ 29,262 | 🐛 487 | 🌐 Kotlin | 📅 2026-08-26)
+* [Signal](https://signal.org/) - Private messaging and calling for desktop, Android, and iOS. ([GNU GPLv3](https://github.com/WhisperSystems/Signal-Android/blob/master/LICENSE) ⭐ 29,260 | 🐛 487 | 🌐 Kotlin | 📅 2026-08-26)
 * [Mail-in-a-Box](https://mailinabox.email/) - Easy-to-deploy mail server package for cloud computers. ([CC0](https://github.com/mail-in-a-box/mailinabox/blob/master/LICENSE) ⭐ 15,396 | 🐛 613 | 🌐 Python | 📅 2026-08-21)
 * [Matrix](https://matrix.org/) - Open standard for decentralised, persistent, and interoperable communications. ([Apache License 2.0](https://github.com/matrix-org/synapse/blob/master/LICENSE) ⚠️ Archived)
-* [Tutanota](https://tutanota.com/) - Encrypted email at no cost with support for business accounts. ([GNU GPLv3](https://github.com/tutao/tutanota/blob/master/LICENSE.txt) ⭐ 7,875 | 🐛 990 | 🌐 TypeScript | 📅 2026-08-27)
+* [Tutanota](https://tutanota.com/) - Encrypted email at no cost with support for business accounts. ([GNU GPLv3](https://github.com/tutao/tutanota/blob/master/LICENSE.txt) ⭐ 7,876 | 🐛 989 | 🌐 TypeScript | 📅 2026-08-27)
 * [ProtonMail](https://protonmail.com/) - Secure web-based email service. ([MIT](https://github.com/ProtonMail/WebClient/blob/public/license.md) ⭐ 5,562 | 🐛 145 | 🌐 TypeScript | 📅 2026-08-27)
 * [Tox](https://tox.chat/) - Encrypted and distributed messaging platform with voice, video, and screen sharing. ([GNU GPLv3](https://github.com/TokTok/c-toxcore/blob/master/COPYING) ⭐ 2,676 | 🐛 221 | 🌐 C | 📅 2026-08-26)
 * [Conversations](https://conversations.im/) - XMPP/Jabber client for Android. ([GNU GPLv3](https://github.com/siacs/Conversations/blob/master/LICENSE))
@@ -80,7 +80,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 ### File Management
 
-* [Filestash](http://www.filestash.app) - A Dropbox-like web client where users can bring their own backend (FTP, SFTP, Webdav, S3, Minio, ...). ([GNU AGPLv3](https://github.com/mickael-kerjean/filestash/blob/master/LICENSE) ⭐ 14,555 | 🐛 121 | 🌐 Go | 📅 2026-08-26)
+* [Filestash](http://www.filestash.app) - A Dropbox-like web client where users can bring their own backend (FTP, SFTP, Webdav, S3, Minio, ...). ([GNU AGPLv3](https://github.com/mickael-kerjean/filestash/blob/master/LICENSE) ⭐ 14,555 | 🐛 121 | 🌐 Go | 📅 2026-08-27)
 * [WinSCP](https://github.com/winscp/winscp) ⭐ 3,791 | 🐛 1 | 🌐 C | 📅 2026-08-27 - SFTP and FTP client for Windows ([GNU GPLv3](https://github.com/winscp/winscp/blob/master/license.txt) ⭐ 3,791 | 🐛 1 | 🌐 C | 📅 2026-08-27)
 * [Mikochi](https://github.com/zer0tonin/Mikochi) ⭐ 371 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-21 - A web interface for browsing remote folders, managing files (uploading, deleting, renaming, downloading), and streaming directly to VLC/mpv. ([MIT](https://github.com/zer0tonin/Mikochi/blob/main/LICENSE) ⭐ 371 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-21)
 * [7-Zip](http://7-zip.org/) - File archiver for creating and opening compressed files. ([GNU LGPLv2.1+](http://www.7-zip.org/faq.html))
@@ -130,23 +130,23 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 ### Payments
 
-* [Electrum](https://electrum.org) - Lightweight Bitcoin client that provides wallet recovery, decentralized servers, and offline storage. ([MIT](https://github.com/spesmilo/electrum/blob/master/LICENCE) ⭐ 8,572 | 🐛 1,243 | 🌐 Python | 📅 2026-08-26)
+* [Electrum](https://electrum.org) - Lightweight Bitcoin client that provides wallet recovery, decentralized servers, and offline storage. ([MIT](https://github.com/spesmilo/electrum/blob/master/LICENCE) ⭐ 8,572 | 🐛 1,244 | 🌐 Python | 📅 2026-08-26)
 * [GNU Taler](https://taler.net) - Cash-like system for online payments. ([GNU GPL](https://taler.net/en/developers.html))
 
 ### Scientific Work
 
-* [JabRef](https://www.jabref.org) - Manages references and attached PDFs using BibTeX/BibLaTeX. Includes support for LibreOffice. ([MIT](https://github.com/JabRef/jabref/blob/master/LICENSE.md) ⭐ 4,652 | 🐛 529 | 🌐 Java | 📅 2026-08-27)
+* [JabRef](https://www.jabref.org) - Manages references and attached PDFs using BibTeX/BibLaTeX. Includes support for LibreOffice. ([MIT](https://github.com/JabRef/jabref/blob/master/LICENSE.md) ⭐ 4,652 | 🐛 532 | 🌐 Java | 📅 2026-08-27)
 * [DocEar](http://www.docear.org/) - Literature management using mind mapping technology. ([GNU GPLv2+](https://github.com/Docear/Desktop/blob/master/docear_framework/license.txt) ⭐ 306 | 🐛 236 | 🌐 Java | 📅 2022-09-01)
 
 ### Screencasting
 
-* [OBS Studio](https://obsproject.com/) - Screen recorder and video streaming application for all platforms. ([GNU GPLv2](https://github.com/jp9000/obs-studio/blob/master/COPYING) ⭐ 75,500 | 🐛 1,166 | 🌐 C | 📅 2026-08-26)
+* [OBS Studio](https://obsproject.com/) - Screen recorder and video streaming application for all platforms. ([GNU GPLv2](https://github.com/jp9000/obs-studio/blob/master/COPYING) ⭐ 75,506 | 🐛 1,166 | 🌐 C | 📅 2026-08-26)
 * [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool. ([GNU GPLv3](https://github.com/ShareX/ShareX/blob/master/LICENSE.txt) ⭐ 39,329 | 🐛 658 | 🌐 C# | 📅 2026-08-27)
 * [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - Highly customisable GUI screencasting program. ([GNU GPLv3](http://www.maartenbaert.be/simplescreenrecorder/#license))
 
 ### Text Editors
 
-* [VS Code](https://github.com/microsoft/vscode) ⭐ 189,708 | 🐛 20,157 | 🌐 TypeScript | 📅 2026-08-27 - A source-code editor made by Microsoft ([MIT](https://github.com/microsoft/vscode/blob/main/LICENSE.txt) ⭐ 189,708 | 🐛 20,157 | 🌐 TypeScript | 📅 2026-08-27)
+* [VS Code](https://github.com/microsoft/vscode) ⭐ 189,709 | 🐛 20,160 | 🌐 TypeScript | 📅 2026-08-27 - A source-code editor made by Microsoft ([MIT](https://github.com/microsoft/vscode/blob/main/LICENSE.txt) ⭐ 189,709 | 🐛 20,160 | 🌐 TypeScript | 📅 2026-08-27)
 * [Atom](https://atom.io/) - Hackable text and source code editor. (Archived) ([MIT](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md))
 * [Pulsar](https://pulsar-edit.dev/) - A Community-led Hyper-Hackable Text Editor. Forked from Atom. ([MIT](https://raw.githubusercontent.com/pulsar-edit/pulsar/master/LICENSE.md))
 * [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more. ([GNU GPL](http://www.free-soft.org/gpl_history/emacs_gpl.html))
@@ -167,8 +167,8 @@ Software in this list is distributed under terms that allow anyone to use, modif
 ### Video
 
 * [youtube-dl](https://rg3.github.io/youtube-dl/) - Feature-rich command line program to download videos from YouTube and other video sites. ([Unlicense](https://github.com/rg3/youtube-dl/blob/master/LICENSE) ⭐ 141,040 | 🐛 4,126 | 🌐 Python | 📅 2026-02-19)
-* [NewPipe](https://newpipe.schabi.org/) - Lightweight YouTube frontend for Android. ([GNU GPLv3](https://github.com/TeamNewPipe/NewPipe/blob/master/LICENSE) ⭐ 39,504 | 🐛 1,448 | 🌐 Java | 📅 2026-08-24)
-* [MPV](https://mpv.io/) - Customizable multimedia player with scripting support. ([GNU GPLv2](https://github.com/mpv-player/mpv/blob/master/LICENSE.GPL/) ⭐ 36,697 | 🐛 1,139 | 🌐 C | 📅 2026-08-26)
+* [NewPipe](https://newpipe.schabi.org/) - Lightweight YouTube frontend for Android. ([GNU GPLv3](https://github.com/TeamNewPipe/NewPipe/blob/master/LICENSE) ⭐ 39,502 | 🐛 1,448 | 🌐 Java | 📅 2026-08-24)
+* [MPV](https://mpv.io/) - Customizable multimedia player with scripting support. ([GNU GPLv2](https://github.com/mpv-player/mpv/blob/master/LICENSE.GPL/) ⭐ 36,700 | 🐛 1,139 | 🌐 C | 📅 2026-08-26)
 * [Kodi](https://kodi.tv/) - Home Theater software and entertainment hub. ([GNU GPLv2](https://github.com/xbmc/xbmc/blob/master/README.md) ⭐ 21,145 | 🐛 468 | 🌐 C++ | 📅 2026-08-27)
 * [VLC](http://www.videolan.org/vlc/) - Multimedia player that supports a variety of audio and video formats. ([GNU GPLv3](http://www.videolan.org/videolan/))
 
@@ -179,19 +179,19 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 ### Web Applications
 
-* [Ghost](https://ghost.org/) - Hackable platform for building and running online publications. ([MIT](https://github.com/TryGhost/Ghost/blob/master/LICENSE) ⭐ 55,070 | 🐛 137 | 🌐 JavaScript | 📅 2026-08-27)
-* [Mastodon](https://joinmastodon.org/) - Decentralized social network server. ([GNU AGPLv3](https://github.com/tootsuite/mastodon/blob/master/LICENSE) ⭐ 50,255 | 🐛 4,497 | 🌐 Ruby | 📅 2026-08-27)
+* [Ghost](https://ghost.org/) - Hackable platform for building and running online publications. ([MIT](https://github.com/TryGhost/Ghost/blob/master/LICENSE) ⭐ 55,072 | 🐛 142 | 🌐 JavaScript | 📅 2026-08-27)
+* [Mastodon](https://joinmastodon.org/) - Decentralized social network server. ([GNU AGPLv3](https://github.com/tootsuite/mastodon/blob/master/LICENSE) ⭐ 50,255 | 🐛 4,498 | 🌐 Ruby | 📅 2026-08-27)
 * [Gogs](https://gogs.io/) - Lightweight, cross-platform, self-hosted Git service. ([MIT](https://github.com/gogits/gogs/blob/master/LICENSE) ⭐ 47,776 | 🐛 1,008 | 🌐 Go | 📅 2026-08-26)
 * [Etherpad](http://etherpad.org/) - Collaborative document editing in real-time. ([Apache License 2.0](https://github.com/ether/etherpad-lite/blob/develop/LICENSE) ⭐ 18,507 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-25)
-* [DocuSeal](https://www.docuseal.co/) - A platform to fill and sign digital documents. ([GNU AGPLv3](https://github.com/docusealco/docuseal/blob/master/LICENSE) ⭐ 18,388 | 🐛 119 | 🌐 Ruby | 📅 2026-08-25)
+* [DocuSeal](https://www.docuseal.co/) - A platform to fill and sign digital documents. ([GNU AGPLv3](https://github.com/docusealco/docuseal/blob/master/LICENSE) ⭐ 18,389 | 🐛 119 | 🌐 Ruby | 📅 2026-08-25)
 * [Wallabag](https://wallabag.org/en) - Save and classify articles. Read them later. Freely. ([MIT](https://github.com/wallabag/wallabag/blob/master/COPYING.md) ⭐ 12,939 | 🐛 761 | 🌐 PHP | 📅 2026-08-24)
 * [Phabricator](https://phacility.com/phabricator/) - Code management platform (similar to GitLab) built with PHP. ([Apache License 2.0](https://github.com/phacility/phabricator/blob/master/LICENSE) ⭐ 12,298 | 🐛 3 | 🌐 PHP | 📅 2024-04-12)
 * [Healthchecks](https://healthchecks.io/) - Cron job monitoring service. ([BSD 3-clause](https://github.com/healthchecks/healthchecks/blob/master/LICENSE) ⭐ 10,289 | 🐛 53 | 🌐 Python | 📅 2026-08-21)
-* [Weblate](https://weblate.org) - Translation management system with version control integration. ([GNU GPLv3](https://github.com/WeblateOrg/weblate/blob/master/COPYING) ⭐ 6,041 | 🐛 501 | 🌐 Python | 📅 2026-08-27)
+* [Weblate](https://weblate.org) - Translation management system with version control integration. ([GNU GPLv3](https://github.com/WeblateOrg/weblate/blob/master/COPYING) ⭐ 6,042 | 🐛 501 | 🌐 Python | 📅 2026-08-27)
 * [Lobsters](https://lobste.rs/) - Link aggregation and discussion with downvote explanations. ([BSD 3-clause](https://github.com/lobsters/lobsters/blob/master/LICENSE) ⭐ 4,818 | 🐛 265 | 🌐 Ruby | 📅 2026-08-17)
-* [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform. ([Apache License 2.0](https://github.com/tolgee/tolgee-platform/blob/main/LICENSE) ⭐ 4,081 | 🐛 194 | 🌐 TypeScript | 📅 2026-08-27)
+* [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform. ([Apache License 2.0](https://github.com/tolgee/tolgee-platform/blob/main/LICENSE) ⭐ 4,082 | 🐛 194 | 🌐 TypeScript | 📅 2026-08-27)
 * [Dnote](https://www.getdnote.com/) - A simple command line notebook with multi-device sync and web interface. ([GNU AGPLv3](https://github.com/dnote/dnote/blob/master/licenses/AGPLv3.txt) ⭐ 3,071 | 🐛 40 | 🌐 Go | 📅 2026-07-25)
-* [Neocities](https://neocities.org/) - GeoCities for the modern world. ([BSD 2-clause](https://github.com/neocities/neocities/blob/master/LICENSE.txt) ⭐ 1,901 | 🐛 95 | 🌐 JavaScript | 📅 2026-08-18)
+* [Neocities](https://neocities.org/) - GeoCities for the modern world. ([BSD 2-clause](https://github.com/neocities/neocities/blob/master/LICENSE.txt) ⭐ 1,900 | 🐛 95 | 🌐 JavaScript | 📅 2026-08-18)
 * [Inventaire](https://inventaire.io/welcome) - Share books with friends and communities. ([GNU AGPLv3](https://github.com/inventaire/inventaire/blob/master/LICENSE.md) ⚠️ Archived)
 * [Cloverleaf](https://cloverleaf.app) - An open source app to replace your password manager without storing your passwords anywhere. ([MIT](https://github.com/cloverleaf/web/blob/master/LICENSE) ⭐ 50 | 🐛 27 | 🌐 JavaScript | 📅 2025-07-01)
 * [GitLab](https://about.gitlab.com/installation/) - Git repository manager for the entire code lifecycle. ([MIT](https://gitlab.com/gitlab-org/gitlab-ce/raw/master/LICENSE))
@@ -283,7 +283,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 ### Other Lists
 
-* [Awesome Self-Hosted](https://github.com/Kickball/awesome-selfhosted) ⭐ 315,495 | 🐛 0 | 📅 2026-08-22 - List of FLOSS network services and web applications which can be hosted locally.
+* [Awesome Self-Hosted](https://github.com/Kickball/awesome-selfhosted) ⭐ 315,510 | 🐛 0 | 📅 2026-08-22 - List of FLOSS network services and web applications which can be hosted locally.
 * [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) ⭐ 34,997 | 🐛 0 | 📅 2026-08-19 - List of free software sysadmin tools.
 * [Awesome Humane Tech](https://github.com/engagingspaces/awesome-humane-tech) ⚠️ Archived - List of projects focusing on ethics, transparency, and privacy.
 
