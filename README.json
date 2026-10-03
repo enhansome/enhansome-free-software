@@ -413,7 +413,7 @@
                 "open_issues": 497,
                 "owner": "signalapp",
                 "repo": "Signal-Android",
-                "stars": 29412,
+                "stars": 29411,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:37:24.608Z"
@@ -1055,7 +1055,7 @@
                 "open_issues": 1145,
                 "owner": "obsproject",
                 "repo": "obs-studio",
-                "stars": 76897,
+                "stars": 76898,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -1088,7 +1088,7 @@
                 "open_issues": 630,
                 "owner": "ShareX",
                 "repo": "ShareX",
-                "stars": 39847,
+                "stars": 39848,
                 "topics": [
                   "avalonia",
                   "capture",
@@ -1137,7 +1137,7 @@
                 "open_issues": 21339,
                 "owner": "microsoft",
                 "repo": "vscode",
-                "stars": 193370,
+                "stars": 193371,
                 "topics": [
                   "editor",
                   "electron",
@@ -1364,7 +1364,7 @@
                 "open_issues": 4125,
                 "owner": "ytdl-org",
                 "repo": "youtube-dl",
-                "stars": 141430,
+                "stars": 141429,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:37:24.608Z"
@@ -1739,8 +1739,8 @@
                 "id": 3559019,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-03T04:38:33Z",
-                "open_issues": 461,
+                "last_commit": "2026-10-03T05:30:06Z",
+                "open_issues": 458,
                 "owner": "WeblateOrg",
                 "repo": "weblate",
                 "stars": 6100,
@@ -1962,7 +1962,7 @@
                 "open_issues": 0,
                 "owner": "awesome-selfhosted",
                 "repo": "awesome-selfhosted",
-                "stars": 323479,
+                "stars": 323488,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2059,7 +2059,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:50:25.412Z",
+    "last_updated": "2026-10-03T05:34:02.859Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of open-source, free as in freedom software.",
